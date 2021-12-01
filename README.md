@@ -24,7 +24,7 @@ Once the walled installs, you will need to add nodes to the configuration file.
 
 
 
-Hide the pop up that first loads once you have launced the walled.
+Hide the pop up that first loads once you have launced the wallet.
 
 
 
