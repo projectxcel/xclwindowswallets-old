@@ -21,8 +21,11 @@ Choose a text editor to modify the file. Notepad will work.
 Add the following lines:
 
 addnode=157.245.89.194
+
 Server=1
+
 rpcuser=user
+
 rpcpassword=password
 
 Click save, then close Notepad.
