@@ -20,7 +20,10 @@ Choose a text editor to modify the file. Notepad will work.
 
 Add the following lines:
 
-NEW NODES COMING SOON
+addnode=157.245.89.194
+Server=1
+rpcuser=user
+rpcpassword=password
 
 Click save, then close Notepad.
 
