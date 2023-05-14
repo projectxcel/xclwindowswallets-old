@@ -21,6 +21,7 @@ Choose a text editor to modify the file. Notepad will work.
 Add the following lines:
 
 addnode=157.245.89.194
+
 addnode=167.99.238.229
 
 Server=1
